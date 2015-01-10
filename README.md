@@ -1,7 +1,7 @@
 insertionsort-js
 ============
 
-Insertionsort implemented in JavaScript.
+Insertion sort implemented in JavaScript.
 
 ```
 $ npm install insertionsort-js
