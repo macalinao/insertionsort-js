@@ -1,0 +1,27 @@
+{
+  "name": "insertionsort-js",
+  "version": "1.0.0",
+  "description": "Insertionsort in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simplyianm/insertionsort-js"
+  },
+  "keywords": [
+    "insertionsort",
+    "sort"
+  ],
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyianm/insertionsort-js/issues"
+  },
+  "homepage": "https://github.com/simplyianm/insertionsort-js",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
